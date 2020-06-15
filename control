@@ -1,0 +1,24 @@
+Package: com.haoict.twitchnoads
+Name: Twitch No Ads
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.1.0), firmware (>= 10)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Free & Open Source Tweak for Twitch
+ Free & Open Source Tweak for Twitch
+ Change log: https://github.com/haoict/twitch-no-ads/releases
+ . 
+ Features:
+ - Remove Ads
+ - Can save clip (live/stream video is currently not supported, press and hold on clip video to show download option)
+ - Support iOS 10 (not tested) - 11 (tested) - 12 (tested) - 13 (tested)
+ - Support latest Twitch version (If it doesn't work, you should update the app to latest version >= 9.2)
+ . 
+ I collect uuid for better support and statistic purpose
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Maintainer: Hao Nguyen
+Author: Hao Nguyen
+Section: Tweaks
